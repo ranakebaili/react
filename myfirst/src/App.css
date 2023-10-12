@@ -1,0 +1,15 @@
+/*cards style*/
+.carta{
+  display: flex;
+  justify-content: space-around;
+}
+/*heading style*/
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.heading{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
